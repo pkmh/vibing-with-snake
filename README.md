@@ -3,7 +3,7 @@
 
 The goal This time? To play Snake in your CLI!!
 
-All I prompted Claude with was "Hey Claude! Can you write another C++ program for me? I want to play Snake in my CLI" This took Claude significantly longer than Tertris, but it was still very fast. I think thats understandable too, considering the popularity of Tertris as a game and as a programming task
+All I prompted Claude with was "Hey Claude! Can you write another C++ program for me? I want to play Snake in my CLI" This took Claude significantly longer than Tetris, but it was still very fast. I think thats understandable too, considering the popularity of Tetris as a game and as a programming task
 
 ## set-up
 You'll need ncurses installed (`sudo apt install libncurses-dev` on Debian/Ubuntu, `brew install ncurses` on macOS — usually preinstalled).
