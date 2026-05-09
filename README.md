@@ -21,4 +21,5 @@ g++ -std=c++17 -O2 snake.cpp -lncurses -o snake
 - Q to quit
 
 ## notes
-the snake speeds up gradually as it grows (from 120ms per tick down to a 50ms floor), 180-degree turns are blocked so you can't accidentally fold the snake into itself, and there's a session best score tracked across restarts. Eating food gives you 10 points and grows the snake by one segment.
+FROM CLAUDE
+> The snake speeds up gradually as it grows (from 120ms per tick down to a 50ms floor), 180-degree turns are blocked so you can't accidentally fold the snake into itself, and there's a session best score tracked across restarts. Eating food gives you 10 points and grows the snake by one segment.
